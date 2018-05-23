@@ -1,0 +1,14 @@
+# Site settings
+title: 正义的伙伴
+email: your-email@domain.com
+cover_image: cover.jpg
+description: > # this means to ignore newlines until "baseurl:"
+      我要成为厉害的程序员，为此，我必须付出相应的努力——坚持不懈地编程实践，诚实严肃地反省总结，不遗余力地博览群书！
+
+baseurl: ""  # the subpath of your site, e.g. /blog/
+url: zephyr_zqf.github.io # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
