@@ -12,4 +12,4 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll) -->
 
-我要成为厉害的程序员，为此，我必须付出相应的努力——坚持不懈地编程实践，诚实严肃地反省总结，不遗余力地博览群书！
+　　我要成为厉害的程序员，为此，我必须付出相应的努力——坚持不懈地编程实践，诚实严肃地反省总结，不遗余力地博览群书！
